@@ -10,7 +10,7 @@ import AppPackage.AnimationClass;
 public class LoginPage extends javax.swing.JFrame {
     boolean visible,visible2 = false;
     
-
+//modificando
     /**
      * Creates new form LoginPage
      */
